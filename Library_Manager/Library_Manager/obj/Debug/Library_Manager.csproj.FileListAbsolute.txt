@@ -1,2 +1,3 @@
 C:\Users\JuanPablo\Desktop\2015_SUMMER\CS2450 - SOFTWARE ENGINEERING\Library_Manager\Library_Manager\bin\Debug\Library_Manager.exe.config
 C:\Users\JuanPablo\Documents\GitHub\Library\Library_Manager\Library_Manager\bin\Debug\Library_Manager.exe.config
+C:\Users\Logan\Source\Repos\Library\Library_Manager\Library_Manager\bin\Debug\Library_Manager.exe.config

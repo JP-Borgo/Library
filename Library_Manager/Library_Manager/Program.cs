@@ -11,6 +11,7 @@ namespace Library_Manager
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// This is Logan
         [STAThread]
         static void Main()
         {
