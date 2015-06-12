@@ -8,3 +8,6 @@ C:\Users\JuanPablo\Documents\GitHub\Library\Library_Manager\Library_Manager\obj\
 C:\Users\JuanPablo\Documents\GitHub\Library\Library_Manager\Library_Manager\obj\Debug\Library_Manager.csproj.GenerateResource.Cache
 C:\Users\JuanPablo\Documents\GitHub\Library\Library_Manager\Library_Manager\obj\Debug\Library_Manager.exe
 C:\Users\JuanPablo\Documents\GitHub\Library\Library_Manager\Library_Manager\obj\Debug\Library_Manager.pdb
+C:\Users\Lance\Source\Repos\Library\Library_Manager\Library_Manager\bin\Debug\Library_Manager.exe.config
+C:\Users\Lance\Source\Repos\Library\Library_Manager\Library_Manager\obj\Debug\Library_Manager.exe
+C:\Users\Lance\Source\Repos\Library\Library_Manager\Library_Manager\obj\Debug\Library_Manager.pdb
