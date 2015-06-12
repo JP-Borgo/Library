@@ -1,3 +1,10 @@
 C:\Users\JuanPablo\Desktop\2015_SUMMER\CS2450 - SOFTWARE ENGINEERING\Library_Manager\Library_Manager\bin\Debug\Library_Manager.exe.config
 C:\Users\JuanPablo\Documents\GitHub\Library\Library_Manager\Library_Manager\bin\Debug\Library_Manager.exe.config
 C:\Users\Logan\Source\Repos\Library\Library_Manager\Library_Manager\bin\Debug\Library_Manager.exe.config
+C:\Users\JuanPablo\Documents\GitHub\Library\Library_Manager\Library_Manager\bin\Debug\Library_Manager.exe
+C:\Users\JuanPablo\Documents\GitHub\Library\Library_Manager\Library_Manager\bin\Debug\Library_Manager.pdb
+C:\Users\JuanPablo\Documents\GitHub\Library\Library_Manager\Library_Manager\obj\Debug\Library_Manager.csprojResolveAssemblyReference.cache
+C:\Users\JuanPablo\Documents\GitHub\Library\Library_Manager\Library_Manager\obj\Debug\Library_Manager.Properties.Resources.resources
+C:\Users\JuanPablo\Documents\GitHub\Library\Library_Manager\Library_Manager\obj\Debug\Library_Manager.csproj.GenerateResource.Cache
+C:\Users\JuanPablo\Documents\GitHub\Library\Library_Manager\Library_Manager\obj\Debug\Library_Manager.exe
+C:\Users\JuanPablo\Documents\GitHub\Library\Library_Manager\Library_Manager\obj\Debug\Library_Manager.pdb
